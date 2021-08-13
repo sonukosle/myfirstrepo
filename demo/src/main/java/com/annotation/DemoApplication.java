@@ -13,7 +13,7 @@ import myPack.Dog;
 @SpringBootApplication
 public class DemoApplication  implements CommandLineRunner{
 
-	
+	//hrl
 	@Autowired
 	@Qualifier("student2")
 	private Student student;
